@@ -81,7 +81,8 @@ https://mybusiness.service.nsw.gov.au/dine-and-discover/business-finder
 I am a part-time student studying Diploma of Websites Development (ICT50615) at Ultimo TAFE. Initially I am doing this project as a school assignment, purpose will be just for help improving the community.
 
 •	How will you give us assurance that you can launch your solution to the public by March 30, 2022? *
-My TAFE assignment is due late November 2021 so a prototype must be built by then. My TAFE teacher promised to provide ongoing support even after the course finish. 
+My TAFE assignment is due late November 2021 so a prototype must be built by then, with 3 other team members from same course.
+Asked My TAFE teacher and Current Work Manager(Also a Web Developer worked together for 8 years) to provide ongoing support even after the course finish. 
 
 •	Following the successful implementation of your solution, what data and insights can you share with TfNSW that can be used for analysis and future planning? *
 - Users habit (click/faourites/check-in) of the POI
